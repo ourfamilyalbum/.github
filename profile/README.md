@@ -1,3 +1,5 @@
+<img src="icon.png" alt="Our Family Album app icon" width="120" height="120" />
+
 # Our Family Album
 
 **Share your children's photos privately with your family.** Share a photo once, and everyone you invite sees it right away. One album, the whole family.
